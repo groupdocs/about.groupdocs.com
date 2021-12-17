@@ -10,7 +10,7 @@ weight: 1
 ---
 
 
-<h4>Background</h4>
+<h4>Background </h4>
 <p>groupdocs.com is the second website launched by Aspose Pty Ltd following on from the success of Aspose. the market leader of file format APIs for .NET, Java and other platforms. The website first went live in 2012.</p>
 <p>groupdocs.com started with online document manipulation apps before shifting focus to .NET and Java APIs. In 2013 <span class="il">GroupDocs</span> Viewer for .NET was released to allow developers to include high fidelity document viewing within their .NET applications, built using Aspose technology, <span class="il">GroupDocs</span> Viewer for .NET copes with a multitude of file formats and configuration options. A steady stream of other .NET and Java APIs followed soon after, with more added every year.</p>
 <h4>Our mission</h4>
