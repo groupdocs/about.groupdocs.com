@@ -20,16 +20,17 @@ menu:
 <h5>Contact Sales Team</h5>
 <p>Please don't contact the sales teams with support questions. Instead, post questions in the <a href="https://forum.groupdocs.com" shape="rect">Support Forums</a>.</p>
 </div>
+
 <div class="row panel-container2">
 <div class="col-md-4">
 <div class="panel panel-default">
 <div class="panel-heading">America</div>
 <div class="panel-body">
 <ul class="list-unstyled">
-<li><img src="/templates/brand/images/icons/CountryFlag-US.png"> USA</li>
-<li><i class="fa fa-phone"> </i> +1 903 306 1676</li>
-<li><i class="fa fa-skype"> </i> <a href="skype:asposeptyltd.sales?call" shape="rect"><img src="/templates/brand/images/icons/skypeStatus-Icon.png">  </a></li>
-<li><i class="fa fa-envelope"> </i> <span id="cloakf9bd3623946b07ca99827ae21912b135">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type="text/javascript">document.getElementById('cloakf9bd3623946b07ca99827ae21912b135').innerHTML='';var prefix='&#109;a'+'i&#108;'+'&#116;o';var path='hr'+'ef'+'=';var addyf9bd3623946b07ca99827ae21912b135='s&#97;l&#101;s'+'&#64;';addyf9bd3623946b07ca99827ae21912b135=addyf9bd3623946b07ca99827ae21912b135+'gr&#111;&#117;pd&#111;cs'+'&#46;'+'c&#111;m';var addy_textf9bd3623946b07ca99827ae21912b135='s&#97;l&#101;s'+'&#64;'+'gr&#111;&#117;pd&#111;cs'+'&#46;'+'c&#111;m';document.getElementById('cloakf9bd3623946b07ca99827ae21912b135').innerHTML+='<a '+path+'\''+prefix+':'+addyf9bd3623946b07ca99827ae21912b135+'\'>'+addy_textf9bd3623946b07ca99827ae21912b135+'<\/a>';</script></li>
+<li><img data-src="/templates/brand/images/icons/CountryFlag-US.png" class=" lazyloaded" src="/templates/brand/images/icons/CountryFlag-US.png"> USA</li>
+<li><i class="fa fa-phone">&nbsp;</i> +1 903 306 1676</li>
+<li><i class="fa fa-skype">&nbsp;</i> <a href="skype:asposeptyltd.sales?call" shape="rect"><img data-src="/templates/brand/images/icons/skypeStatus-Icon.png" class=" lazyloaded" src="/templates/brand/images/icons/skypeStatus-Icon.png">&nbsp;&nbsp;</a></li>
+<li><i class="fa fa-envelope">&nbsp;</i> <span id="cloakfd9fc852c56a8332d2793980efc258ba"><a href="mailto:sales@groupdocs.com">sales@groupdocs.com</a></span></li>
 </ul>
 </div>
 </div>
@@ -40,10 +41,10 @@ menu:
 <div class="panel-heading">Europe</div>
 <div class="panel-body">
 <ul class="list-unstyled">
-<li><img src="/templates/brand/images/icons/CountryFlag-UK.png"> UK</li>
-<li><i class="fa fa-phone"> </i> +44 141 628 8900</li>
-<li><i class="fa fa-skype"> </i> <a href="skype:asposeptyltd.sales?call" shape="rect"><img src="/templates/brand/images/icons/skypeStatus-Icon.png">  </a></li>
-<li><i class="fa fa-envelope"> </i> <span id="cloakbe8684e83f5ace16419feb43988cb820">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type="text/javascript">document.getElementById('cloakbe8684e83f5ace16419feb43988cb820').innerHTML='';var prefix='&#109;a'+'i&#108;'+'&#116;o';var path='hr'+'ef'+'=';var addybe8684e83f5ace16419feb43988cb820='s&#97;l&#101;s'+'&#64;';addybe8684e83f5ace16419feb43988cb820=addybe8684e83f5ace16419feb43988cb820+'gr&#111;&#117;pd&#111;cs'+'&#46;'+'c&#111;m';var addy_textbe8684e83f5ace16419feb43988cb820='s&#97;l&#101;s'+'&#64;'+'gr&#111;&#117;pd&#111;cs'+'&#46;'+'c&#111;m';document.getElementById('cloakbe8684e83f5ace16419feb43988cb820').innerHTML+='<a '+path+'\''+prefix+':'+addybe8684e83f5ace16419feb43988cb820+'\'>'+addy_textbe8684e83f5ace16419feb43988cb820+'<\/a>';</script></li>
+<li><img data-src="/templates/brand/images/icons/CountryFlag-UK.png" class=" lazyloaded" src="/templates/brand/images/icons/CountryFlag-UK.png"> UK</li>
+<li><i class="fa fa-phone">&nbsp;</i> +44 141 628 8900</li>
+<li><i class="fa fa-skype">&nbsp;</i> <a href="skype:asposeptyltd.sales?call" shape="rect"><img data-src="/templates/brand/images/icons/skypeStatus-Icon.png" class=" lazyloaded" src="/templates/brand/images/icons/skypeStatus-Icon.png">&nbsp;&nbsp;</a></li>
+<li><i class="fa fa-envelope">&nbsp;</i> <span id="cloak359b274376b247069a6a36e5be5bd3dc"><a href="mailto:sales@groupdocs.com">sales@groupdocs.com</a></span></li>
 </ul>
 </div>
 </div>
@@ -53,10 +54,10 @@ menu:
 <div class="panel-heading">Oceania</div>
 <div class="panel-body">
 <ul class="list-unstyled">
-<li><img src="/templates/brand/images/icons/CountryFlag-AUSTRALIA.png"> Australia</li>
-<li><i class="fa fa-phone"> </i> +61 2 8006 6987</li>
-<li><i class="fa fa-skype"> </i> <a href="skype:asposeptyltd.sales?call" shape="rect"><img src="/templates/brand/images/icons/skypeStatus-Icon.png">  </a></li>
-<li><i class="fa fa-envelope"> </i> <span id="cloak1797e8b131fc2c78d41751a09104d1a3">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type="text/javascript">document.getElementById('cloak1797e8b131fc2c78d41751a09104d1a3').innerHTML='';var prefix='&#109;a'+'i&#108;'+'&#116;o';var path='hr'+'ef'+'=';var addy1797e8b131fc2c78d41751a09104d1a3='s&#97;l&#101;s'+'&#64;';addy1797e8b131fc2c78d41751a09104d1a3=addy1797e8b131fc2c78d41751a09104d1a3+'gr&#111;&#117;pd&#111;cs'+'&#46;'+'c&#111;m';var addy_text1797e8b131fc2c78d41751a09104d1a3='s&#97;l&#101;s'+'&#64;'+'gr&#111;&#117;pd&#111;cs'+'&#46;'+'c&#111;m';document.getElementById('cloak1797e8b131fc2c78d41751a09104d1a3').innerHTML+='<a '+path+'\''+prefix+':'+addy1797e8b131fc2c78d41751a09104d1a3+'\'>'+addy_text1797e8b131fc2c78d41751a09104d1a3+'<\/a>';</script></li>
+<li><img data-src="/templates/brand/images/icons/CountryFlag-AUSTRALIA.png" class=" lazyloaded" src="/templates/brand/images/icons/CountryFlag-AUSTRALIA.png"> Australia</li>
+<li><i class="fa fa-phone">&nbsp;</i> +61 2 8006 6987</li>
+<li><i class="fa fa-skype">&nbsp;</i> <a href="skype:asposeptyltd.sales?call" shape="rect"><img data-src="/templates/brand/images/icons/skypeStatus-Icon.png" class=" lazyloaded" src="/templates/brand/images/icons/skypeStatus-Icon.png">&nbsp;&nbsp;</a></li>
+<li><i class="fa fa-envelope">&nbsp;</i> <span id="cloake534c8d4208bc37d8f9926408dbd0125"><a href="mailto:sales@groupdocs.com">sales@groupdocs.com</a></span></li>
 </ul>
 </div>
 </div>

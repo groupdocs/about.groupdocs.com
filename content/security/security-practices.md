@@ -78,7 +78,7 @@ menu:
 <div class="box1 row">
 <div class="col-md-12">
 <h5>More questions about Security?</h5>
-<p>You can read more in our <a href="/legal/eula" rel="alternate">EULA </a>and <a href="/legal/privacy-policy" rel="alternate">Privacy Policy</a>. If you have a question, concern, or comment about GroupDocs's security that's not covered here? <span id="cloak93197ab8004e4855d60d27fafc20613d">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type="text/javascript">document.getElementById('cloak93197ab8004e4855d60d27fafc20613d').innerHTML='';var prefix='&#109;a'+'i&#108;'+'&#116;o';var path='hr'+'ef'+'=';var addy93197ab8004e4855d60d27fafc20613d='s&#101;c&#117;r&#105;ty'+'&#64;';addy93197ab8004e4855d60d27fafc20613d=addy93197ab8004e4855d60d27fafc20613d+'gr&#111;&#117;pd&#111;cs'+'&#46;'+'c&#111;m';var addy_text93197ab8004e4855d60d27fafc20613d='Em&#97;&#105;l Us';document.getElementById('cloak93197ab8004e4855d60d27fafc20613d').innerHTML+='<a '+path+'\''+prefix+':'+addy93197ab8004e4855d60d27fafc20613d+'\' rel="alternate">'+addy_text93197ab8004e4855d60d27fafc20613d+'<\/a>';</script> or <a href="https://forum.groupdocs.com/" rel="alternate">Ask on the support forums</a>.</p>
+<p>You can read more in our <a href="/legal/eula" rel="alternate">EULA </a>and <a href="/legal/privacy-policy" rel="alternate">Privacy Policy</a>. If you have a question, concern, or comment about GroupDocs's security that's not covered here? <span id="cloakb2b93343ab10595955dfa357452ec986"><a href="mailto:security@aspose.com" rel="alternate">Email Us</a></span> or <a href="https://forum.groupdocs.com/" rel="alternate">Ask on the support forums</a>.</p>
 </div>
 </div>
 </div>
